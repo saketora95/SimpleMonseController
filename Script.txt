@@ -1,0 +1,66 @@
+wait 3
+
+move 682 384
+wait 0.3
+rc
+wait 0.3
+move 788 492
+wait 0.3
+lc
+wait 0.3
+move 868 548
+wait 0.3
+lc
+wait 0.3
+move 1081 682
+wait 0.3
+lc
+wait 0.3
+move 940 142
+wait 0.3
+lc
+wait 0.3
+move 952 597
+wait 0.3
+lc
+wait 0.3
+move 1245 359
+wait 0.3
+rc
+wait 0.3
+move 976 548
+wait 0.3
+lc
+wait 0.3
+move 968 549
+wait 0.3
+lc
+wait 0.3
+move 881 526
+wait 0.3
+rc
+wait 0.3
+move 896 535
+wait 0.3
+lc
+wait 0.3
+move 921 570
+wait 0.3
+lc
+wait 0.3
+move 921 570
+wait 0.3
+lc
+wait 0.3
+move 921 570
+wait 0.3
+lc
+wait 0.3
+move 921 570
+wait 0.3
+lc
+wait 0.3
+move 921 570
+wait 0.3
+lc
+wait 0.3
